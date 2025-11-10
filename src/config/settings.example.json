@@ -1,0 +1,7 @@
+{
+  "default_formats": ["json", "csv"],
+  "enable_watermark_removal": true,
+  "concurrency": 4,
+  "user_agent": "AllInOneMediaDownloader/1.0 (+https://bitbash.dev)",
+  "timeout_seconds": 20
+}
