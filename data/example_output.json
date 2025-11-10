@@ -1,0 +1,33 @@
+[
+    {
+        "url": "https://www.tiktok.com/@_mrjunaid_/video/7397488385276857618",
+        "source": "tiktok",
+        "author": "_mrjunaid_",
+        "title": "🔥🔥🔥🔥🥶🔥#mrjunaid #tiktokjunaid #viralvideo",
+        "thumbnail": "https://p16-sign-sg.tiktokcdn.com/aweme/300x400/okBIdqFU4EDiegBACrTAfeE3NpITjFCDoZIlKC.webp",
+        "duration": 182416,
+        "medias": [
+            {
+                "url": "https://v16e.tiktokcdn.com/video_hd.mp4",
+                "quality": "hd_no_watermark",
+                "extension": "mp4",
+                "type": "video"
+            },
+            {
+                "url": "https://v16e.tiktokcdn.com/video_no_watermark.mp4",
+                "quality": "no_watermark",
+                "extension": "mp4",
+                "type": "video"
+            },
+            {
+                "url": "https://sf9-ies-music-sg.tiktokcdn.com/obj/tiktok-obj/7397488420228352784.mp3",
+                "duration": 182,
+                "quality": "audio",
+                "extension": "mp3",
+                "type": "audio"
+            }
+        ],
+        "type": "multiple",
+        "error": false
+    }
+]
